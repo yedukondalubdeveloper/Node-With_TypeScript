@@ -1,0 +1,9 @@
+body {
+    background: rgb(180, 147, 147);
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 3.00rem;
+    background:'#F1F2F7' !important;
+}
